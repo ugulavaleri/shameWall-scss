@@ -44,9 +44,6 @@ header {
             border-radius: $BorderRadius;
             padding-left: 15px;
             outline: none;
-            ::placeholder {
-                color: red;
-            }
         }
         input::placeholder {
             color: $placeholderColor;
